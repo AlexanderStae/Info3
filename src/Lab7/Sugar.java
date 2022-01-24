@@ -1,4 +1,4 @@
-package Lab7;
+package lab7;
 
 public class Sugar extends HotDrinkDecorator {
 
